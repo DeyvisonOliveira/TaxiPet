@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+apps/pocketbase/pb_data/
+apps/pocketbase/.pocketbase-version
+.DS_Store
+npm-debug.log
+yarn-error.log
